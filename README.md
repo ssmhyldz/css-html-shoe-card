@@ -4,7 +4,7 @@ Let's learn how to change one line of code to change the entire design using onl
 <br>
 I created to basicly shopping shoe card with html and css.
 <br>
-You should check this this. &#128071;
+You should check this. &#128071;
 <br>
 <br>
 
